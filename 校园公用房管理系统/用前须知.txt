@@ -6,6 +6,8 @@ Windows 10 10.0
 
 为了更好的测试，请将当前文件夹下Data.txt文件放置到D盘目录下。
 
+用户名、密码都是：root
+
 开发人：我可是炳子
 
 博客地址：http://www.cnblogs.com/mxwbq/
