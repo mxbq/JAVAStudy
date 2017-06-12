@@ -1,0 +1,46 @@
+IntelliJ IDEA 2017.1
+Build #IC-171.3780.107, built on March 22, 2017
+JRE: 1.8.0_112-release-736-b13 amd64
+JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+Windows 10 10.0
+
+为了更好的测试，请将当前文件夹下Data.txt文件放置到D盘目录下。
+
+开发人：我可是炳子
+
+博客地址：http://www.cnblogs.com/mxwbq/
+
+欢迎提供建议 乾杯 []~（￣▽￣）~*
+欢迎交流 乾杯 []~（￣▽￣）~*
+欢迎分享 乾杯 []~（￣▽￣）~*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+附：我知道有很多BUG。。。。
+
+以上
